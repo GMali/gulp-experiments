@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "heyyy there :D"
+echo "your argument was $1"
